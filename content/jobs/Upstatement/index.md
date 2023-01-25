@@ -1,12 +1,13 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Web Developer Intern'
+company: 'ShopTheProject'
+location: 'Los Angeles, CA'
+range: 'August - September 2022'
+url: 'https://'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Utilized Git for version control and collaborated with remote team members
+- Assisted in the creation and maintenance of technical documentation for the development team
+- Used agile methodologies to manage project timelines and deliverables
+- Participated in hackathons and contributed to the development of prototype projects

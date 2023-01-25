@@ -1,15 +1,17 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Relocate'
+cover: './relocate.png'
+github: 'https://github.com/devopsjyotir/feelsproject'
+external: 'https://github.com/devopsjyotir/feelsproject'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Express
+  - Node js
+  - Mongo DB
+showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A user-friendly app that helps me find the perfect place to live based on my interests.
+The app features a RESTful API built with Express, MongoDB, and Node.js, with full CRUD functionality and tested backend routes.
+The frontend utilizes ES6 template literals and Styled-Components to deliver a sleek, modern design using CSS3 and flexbox layout.

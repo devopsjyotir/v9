@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '3'
+title: 'School Report'
+cover: './ctoprofile.png'
+github: 'https://github.com/devopsjyotir'
+external: 'https://github.com/devopsjyotir'
 tech:
   - React
-  - Styled Components
+  - Postgres
+  - Insomnia
   - Express
-  - Spotify API
-  - Heroku
+showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A full-stack PERN application that allows administrators to view and manage college students' school reports, including the ability to create new courses and calculate GPA.
