@@ -1,12 +1,13 @@
 ---
-date: '2022-05-12'
-title: 'Research Analyst'
-company: 'GhOne Tv'
+date: '2022-09-12'
+title: 'Full Stack Developer'
+company: 'General Assembly'
 location: 'Remote'
-range: 'May 2022 - July 2022'
-url: 'http://ghonetv.com/'
+range: 'September 2022 - Present'
+url: 'https://generalassemb.ly/'
 ---
 
-- Analyzed large data sets, including visualization of trends using software such as Excel and Tableau
-- Assisted in the development of research proposals and budgets for future projects
-- Contributed to the development of research strategies and plans for future projects
+- Designed and delivered over 15 complex web applications, leveraging expertise in front-end and back-end development.
+- Participated in 2 high-paced hackathons, implementing Git Flow, to facilitate seamless collaboration and improve productivity by at least 20%.
+- Ensured the privacy and protection of sensitive user data by implementing secure authentication methods, such as JWT and OAuth.
+- Adhered to a client-first approach, carefully analyzing project requirements to deliver tailored and customized solutions.

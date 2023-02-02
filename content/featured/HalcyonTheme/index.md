@@ -1,17 +1,15 @@
 ---
 date: '1'
-title: 'Relocate'
-cover: './relocate.png'
-github: 'https://github.com/devopsjyotir/feelsproject'
-external: 'https://github.com/devopsjyotir/feelsproject'
+title: 'Unwrapped'
+cover: './herokucover.png'
+github: 'https://github.com/devopsjyotir/spotify-app'
+external: 'https://unwrapped-app.herokuapp.com/'
 tech:
   - React
   - Express
   - Node js
-  - Mongo DB
+  - Spotify API
 showInProjects: true
 ---
 
-A user-friendly app that helps me find the perfect place to live based on my interests.
-The app features a RESTful API built with Express, MongoDB, and Node.js, with full CRUD functionality and tested backend routes.
-The frontend utilizes ES6 template literals and Styled-Components to deliver a sleek, modern design using CSS3 and flexbox layout.
+A web app for visualizing customised Spotify data. View your top artists, top songs, recently played songs, and audio details for each track.
