@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'School Report'
+title: 'School Report - Backend'
 cover: './ctoprofile.png'
-github: 'https://github.com/devopsjyotir'
-external: 'https://github.com/devopsjyotir'
+github: 'https://github.com/devopsjyotir/school-report-backend'
+external: 'https://github.com/devopsjyotir/school-report-backend'
 tech:
   - React
   - Postgres

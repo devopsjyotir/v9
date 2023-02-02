@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Unwrapped'
+title: 'Unwrapped - Full Stack'
 cover: './herokucover.png'
 github: 'https://github.com/devopsjyotir/spotify-app'
 external: 'https://unwrapped-app.herokuapp.com/'

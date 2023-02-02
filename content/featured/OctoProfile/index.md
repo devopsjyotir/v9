@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'MyMov List'
+title: 'MyMov List - Full Stack'
 cover: './course-card.png'
-github: 'https://github.com/devopsjyotir/mymovproj_backend'
-external: 'https://github.com/devopsjyotir/mymovproj_backend'
+github: 'https://github.com/devopsjyotir/MyMovProj-Backend'
+external: 'https://github.com/devopsjyotir/mymovproj_frontend'
 tech:
   - React
   - Postgres
