@@ -1,13 +1,12 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+title: 'Python Tutor'
+company: 'USF Student Success Center'
+location: 'Tampa, FL'
+range: 'January - August 2023'
 url: 'https://www.apple.com/music/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
+- Taught students programming fundamentals, problem-solving, and algorithm design using a personalized, project-based approach with Scratch, Python, and HTML/CSS.
 - Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Led a team of two tutors to run intensive, 12-hour virtual coding boot camps, guiding students to develop and present their own personalized projects.

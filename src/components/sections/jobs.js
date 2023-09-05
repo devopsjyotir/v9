@@ -176,7 +176,7 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = data.jobs.edges.slice(0, 2);
+  const jobsData = data.jobs.edges.slice(0, 3);
 
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);

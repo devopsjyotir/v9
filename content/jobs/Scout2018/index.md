@@ -3,7 +3,7 @@ date: '2022-09-12'
 title: 'Full Stack Developer'
 company: 'General Assembly'
 location: 'Remote'
-range: 'September 2022 - Present'
+range: 'August 2023 - Present'
 url: 'https://generalassemb.ly/'
 ---
 

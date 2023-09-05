@@ -15,6 +15,8 @@ const StyledMainContainer = styled.main`
   counter-reset: section;
 `;
 
+// Now you can create and use EventEmitters without setting the limit individually
+
 const IndexPage = ({ location }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
