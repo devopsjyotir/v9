@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A full-stack PERN application that allows administrators to view and manage college students' school reports, including the ability to create new courses and calculate GPA.
+A full-stack PERN application that allows administrators to view and manage college students' school reports, including the ability to create and add courses. Implements CRUD.
