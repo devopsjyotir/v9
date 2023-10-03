@@ -1,8 +1,8 @@
 ---
 date: '3'
-title: 'School Report - Backend'
+title: 'School Report - Full Stack'
 cover: './ctoprofile.png'
-github: 'https://github.com/devopsjyotir/school-report-backend'
+github: 'https://github.com/devopsjyotir/school-report-backend-repo'
 external: 'https://school-report-front-52df56e95765.herokuapp.com/'
 tech:
   - React
