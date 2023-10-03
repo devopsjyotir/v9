@@ -3,7 +3,7 @@ date: '3'
 title: 'School Report - Backend'
 cover: './ctoprofile.png'
 github: 'https://github.com/devopsjyotir/school-report-backend'
-external: 'https://github.com/devopsjyotir/school-report-backend'
+external: 'https://school-report-front-52df56e95765.herokuapp.com/'
 tech:
   - React
   - Postgres
