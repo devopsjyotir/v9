@@ -3,8 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Jyotir McEwan',
-    description: 'Jyotir McEwan  Software Developer',
-    siteUrl: 'https://mcewananamoah.com', // No trailing slash allowed!
+    description: 'Jyotir McEwan-Anamoah Software  Developer',
+    siteUrl: 'https://jyotirmcewan.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@devopsjyotir',
   },
